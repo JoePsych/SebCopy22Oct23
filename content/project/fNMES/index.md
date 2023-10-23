@@ -11,6 +11,7 @@ date: 2023-07-31T10:25:53+01:00
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+weight: 10
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
